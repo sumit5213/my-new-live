@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-new-live/static/css/main.694a2561.chunk.css",
+    "main.js": "/my-new-live/static/js/main.3d01dbcc.chunk.js",
+    "main.js.map": "/my-new-live/static/js/main.3d01dbcc.chunk.js.map",
+    "runtime-main.js": "/my-new-live/static/js/runtime-main.0fd1eaf4.js",
+    "runtime-main.js.map": "/my-new-live/static/js/runtime-main.0fd1eaf4.js.map",
+    "static/js/2.37818bd2.chunk.js": "/my-new-live/static/js/2.37818bd2.chunk.js",
+    "static/js/2.37818bd2.chunk.js.map": "/my-new-live/static/js/2.37818bd2.chunk.js.map",
+    "static/js/3.9b0cd8e8.chunk.js": "/my-new-live/static/js/3.9b0cd8e8.chunk.js",
+    "static/js/3.9b0cd8e8.chunk.js.map": "/my-new-live/static/js/3.9b0cd8e8.chunk.js.map",
+    "index.html": "/my-new-live/index.html",
+    "static/css/main.694a2561.chunk.css.map": "/my-new-live/static/css/main.694a2561.chunk.css.map",
+    "static/js/2.37818bd2.chunk.js.LICENSE.txt": "/my-new-live/static/js/2.37818bd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fd1eaf4.js",
+    "static/js/2.37818bd2.chunk.js",
+    "static/css/main.694a2561.chunk.css",
+    "static/js/main.3d01dbcc.chunk.js"
+  ]
+}
